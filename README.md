@@ -1,5 +1,7 @@
 # Codealpha_NextCommerce
 
+LIVE LINK: https://your-store.vercel.app/
+
 Codealpha_NextCommerce is a lightweight e‑commerce starter built with Next.js and React. It provides a simple, opinionated structure to help you build a storefront quickly — product listing, product detail pages, a shopping cart, and a checkout placeholder that you can connect to a payment provider.
 
 > NOTE: This README is a clear, general guide. Edit the sections below to match the exact scripts, environment variables, and folder layout used by your project.
